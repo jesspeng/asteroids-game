@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{FD04E10B-0560-DF99-7B32-65F088063C46}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Ship.cs" Line="12" Column="5" />
+      <File FileName="Assets/Scenes/Bullet.cs" Line="34" Column="34" />
+      <File FileName="Assets/Scenes/Asteroid.cs" Line="7" Column="3" />
+      <File FileName="Assets/Scenes/Global.cs" Line="40" Column="17" />
+      <File FileName="Assets/Scenes/ScoreManager.cs" Line="17" Column="21" />
+      <File FileName="Assets/Scenes/MainMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
